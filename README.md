@@ -13,6 +13,7 @@ JS Experiments with Google Colab (jupyter notebook environment)
   - Open webrowser and head to: https://colab.research.google.com/
   - Start an iPython notebook
   - Navigate to "Connect" in the Colab notebook and select "Connect to a local runtime"
-  - In "Local Connection Settings" window, enter the copied URL backend information  
+  - In "Local Connection Settings" window, enter the copied URL backend information
+  - To verify functionality, type a command in the cell of the opened ipython notebook (ex: !ls)
 
 
